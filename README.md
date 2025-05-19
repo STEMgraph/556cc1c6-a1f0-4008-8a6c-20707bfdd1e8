@@ -1,5 +1,6 @@
 <!---
 {
+  "id": "556cc1c6-a1f0-4008-8a6c-20707bfdd1e8",
   "depends_on": ["cartesian product", "mapping", "functions"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-27",
