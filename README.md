@@ -2,7 +2,7 @@
 {
   "id": "556cc1c6-a1f0-4008-8a6c-20707bfdd1e8",
   "teaches": "Mapping Binary Numbers onto Switches and Relays",
-  "depends_on": ["cartesian product", "mapping", "functions"],
+  "depends_on": ["ce954e47f-3d9d-4707-bea3-1ef3105278f4", "da751de6-10d3-4770-a4d3-359f08bc6631"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-27",
   "keywords": ["binary", "digital logic", "relays"]
